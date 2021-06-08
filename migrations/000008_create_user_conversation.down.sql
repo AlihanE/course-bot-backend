@@ -1,0 +1,1 @@
+drop table if exists client_report_conversation;
